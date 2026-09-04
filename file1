@@ -17,7 +17,7 @@
 17.git reset --hard "ID" ---deletes the file from local repo completely
 18.git reset --mixed "ID"---deleted the file but still shows in staging area
 19: git revert---deletes the file but still shows in the commits that has done and can undo that
-
+..
 
 
 
